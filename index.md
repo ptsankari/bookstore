@@ -2,8 +2,8 @@
 
 This site is dedicated to Mother Earth
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.esker.com%2Fgiving-back-to-mother-nature-this-earth-day-weve-all-got-time-for-it%2F&psig=AOvVaw1nA3B5x9b0WtZRYu-iw7bV&ust=1624602447071000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJjfyfHRr_ECFQAAAAAdAAAAABAD ]
+get the image
 
 ```markdown
 Syntax highlighted code block
