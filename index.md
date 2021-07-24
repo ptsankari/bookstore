@@ -16,6 +16,7 @@ background-attachment:fixed;}
 #content{font face=Verdana;
 font-color:white;}
 
+  
 div{
   width: 300px;
   height: 100px;
