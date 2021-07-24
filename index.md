@@ -1,6 +1,6 @@
 ## Welcome to Green Home
 
-This site is dedicated to Mother Earth
+This site is dedicated to Mother Earth by sankari
 ### Markdown
 ![](C:Users\Delighter\Downloads\downloadgreenearth.webp)
 get the image
