@@ -1,34 +1,46 @@
-## Welcome to Green Home
+<!DOCTYPE html>
+<html>
+<head>
+<title>places</title>
+<style>
+#box{background-color:#ccffcc;
+padding:20px;
+font-size:40px;
+margin:40px;
+width:1101px;
+border:3px solid black;}
+body{
+background-image:url(nature.jpg);
+background-size:cover;
+background-attachment:fixed;}
+#content{font face=Verdana;
+font-color:white;}
 
-This site is dedicated to Mother Earth by sankari
-### Markdown
-![](C:Users\Delighter\Downloads\downloadgreenearth.webp)
-get the image
+div{
+  width: 300px;
+  height: 100px;
+  background: red;
+  transition: width 2s;
+}
 
-```markdown
-Syntax highlighted code block
+div:hover {
+  width: 500px;
+}
 
-# Header 1
-## Header 2
-### Header 3
+</style>
+</head>
+<body>
+<div id="box">
+<font face=Verdana><center><div id="content">HAPPY PLACES
+</div></center></font>
+</div>
 
-- Bulleted
-- List
+<center><a href="file:///D:/sankarihtml/mountains.html"><img src="home.jpg" width=100,height=100></a></center>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<center><img src="box5.jpg" width=100,height=100></center>
 
-[Link](url) and ![Image](src)
-```
+<center><img src="box6.jpg"width=100.height=100></center>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ptsankari/greenearth/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
