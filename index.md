@@ -1,47 +1,49 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>places</title>
+<title>bookstore</title>
+</head>
 <style>
-#box{background-color:#ccffcc;
-padding:20px;
-font-size:40px;
-margin:40px;
-width:1101px;
-border:3px solid black;}
-body{
-background-image:url(nature.jpg);
+
+body{background-image:url(bg.jpg);
 background-size:cover;
 background-attachment:fixed;}
-#content{font face=Verdana;
-font-color:white;}
 
-  
-div{
-  width: 300px;
-  height: 100px;
-  background: red;
-  transition: width 2s;
+p{
+color:white;
+font-size:280%;
+font-family:Rockwell;
+margin-left:2em;
+margin-top:3em;
 }
 
-div:hover {
-  width: 500px;
-}
+p1{
+color:white;
+font-size:150%;
+font-family:Rockwell;
+margin-left:4em;
+margin-top:3em;}
 
 </style>
-</head>
 <body>
-<div id="box">
-<font face=Verdana><center><div id="content">HAPPY PLACES
-</div></center></font>
-</div>
+<p>WELCOME TO  CHOOSE  BOOK</p>
+<p1>Where you can choose your favourite type of</p1><br><p1>book by choosing a genre:</p1>
 
-<center><a href="file:///D:/sankarihtml/mountains.html"><img src="home.jpg" width=100,height=100></a></center>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+<center><a href="file:///D:/sankarihtml/bookstore/action.html"><img src="action.jpg" width=200,height=100></a></center>
+<br>
+<br>
+<center><a href="file:///D:/sankarihtml/bookstore/thriller.html"><img src="thriller.jpg" width=200,height=100></a></center>
+<br>
+<br>
+<center><a href="file:///D:/sankarihtml/bookstore/sci.html"><img src="sci.jpg"width=200,height=100></a></center>
 
-<center><img src="box5.jpg" width=100,height=100></center>
-
-<center><img src="box6.jpg"width=100.height=100></center>
 
 </body>
 </html>
+
