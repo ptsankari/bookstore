@@ -35,13 +35,13 @@ margin-top:3em;}
 <br>
 <br>
 
-<center><a href="file:///D:/sankarihtml/bookstore/action.html"><img src="action.jpg" width=200,height=100></a></center>
+<center><a href="action.html"><img src="action.jpg" width=200,height=100></a></center>
 <br>
 <br>
-<center><a href="file:///D:/sankarihtml/bookstore/thriller.html"><img src="thriller.jpg" width=200,height=100></a></center>
+<center><a href="thriller.html"><img src="thriller.jpg" width=200,height=100></a></center>
 <br>
 <br>
-<center><a href="file:///D:/sankarihtml/bookstore/sci.html"><img src="sci.jpg"width=200,height=100></a></center>
+<center><a href="sci.html"><img src="sci.jpg"width=200,height=100></a></center>
 
 
 </body>
