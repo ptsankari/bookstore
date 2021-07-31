@@ -20,7 +20,7 @@ h1 {
 }
 
 .row {
-  margin: 100px;
+  margin: 30px;
 }
 
 /* Add padding BETWEEN each column (if you want) */
@@ -32,7 +32,7 @@ h1 {
 /* Create four equal columns that floats next to each other */
 .column {
   float: right;
-  width: 30%;
+  width: 60%;
 }
 
 /* Clear floats after rows */
