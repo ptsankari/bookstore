@@ -20,7 +20,7 @@ h1 {
 }
 
 .row {
-  margin: 40px;
+  margin: 60px;
 }
 
 /* Add padding BETWEEN each column (if you want) */
@@ -45,7 +45,7 @@ h1 {
 /* Content */
 .content {
   background-color: white;
-  padding: 30px;
+  padding: 5px;
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
