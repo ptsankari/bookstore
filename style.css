@@ -1,5 +1,8 @@
 .container{
 	width:250px;
-	height:300px;
+	height:400px;
 	margin:20px black;
 padding:5px}
+
+.box{width:250px;
+height:300px;}
