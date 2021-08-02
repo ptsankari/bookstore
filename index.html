@@ -4,6 +4,42 @@
 <title>bookstore</title>
 </head>
 <style>
+* {box-sizing: border-box}
+body {font-family: Arial, Helvetica, sans-serif;}
+
+.navbar {
+  width: 100%;
+  background-color:black;;
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+  width: 25%;
+  text-align: center;
+}
+
+.navbar a:hover {
+  background-color: #000;
+}
+
+.navbar a.active {
+  background-color: #04AA6D;
+}
+
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}
+
 
 body{background-image:url(bg.jpg);
 background-size:cover;
@@ -26,6 +62,13 @@ margin-top:3em;}
 
 </style>
 <body>
+
+<div class="navbar">
+  <a class="active" href="#">Home</a> 
+  <a href="https://ptsankari.github.io/greenearth/action.html">Action</a> 
+  <a href="https://ptsankari.github.io/greenearth/thriller.html">Thriller</a> 
+  <a href="#">random</a>
+</div>
 <p>WELCOME TO  CHOOSE  BOOK</p>
 <BR>
 <H1><a href="action.html">Click here for BookShelf</a></h1>
